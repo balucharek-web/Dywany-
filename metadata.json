@@ -1,0 +1,6 @@
+{
+  "name": "Dywany Expo",
+  "description": "System zarządzania ekspozycją dywanów, stojakami, zleceniami ściągania i synchronizacją w sklepie Leroy Merlin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
